@@ -28,7 +28,7 @@
 								<a href="presidenciales.jsp">PRESIDENCIAL</a>
 							</li>
 							<li class="bt-amarillo">
-								<a href="actas.jsp">ACTAS</a>
+								<a href="svlActas">ACTAS</a>
 							</li>
 							<li class="bt-rojo act-rojo">
 								<a href="svlParticipacion">PARTICIPACIÓN CIUDADANA</a>
